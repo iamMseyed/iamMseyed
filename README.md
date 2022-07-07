@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @iamMseyed
-- 👀 I’m interested in Cybersecurity and Machine Learning 
-- 🌱 I’m currently learning cybersecurity
+- 👋 Hi, I’m Seyed Muzaffar
+- 👀 I’m interested in computer programming and Cybersecurity
+- 🌱 I’m currently exploring these keenly
 
 <!---
 iamMseyed/iamMseyed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
