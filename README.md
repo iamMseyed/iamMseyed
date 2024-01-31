@@ -12,12 +12,13 @@ A **driven** M.Tech postgraduate with a **keen interest** in machine learning an
   - 📱 **Built** an Android application called "On Demand Services" in a team of 4.
 
 ## Key Skills 💻
-
-- Programming: C, C++, Java (SE & EE), and SQL  
-- Web: HTML, CSS, and Bootstrap
-- Tools: Git and GitHub
-- Frameworks: Spring, Spring Boot, and Hibernate
-- Expertise in testing and validating REST APIs using Postman
+- Programming Languages: C, C++, Java 1.8, NLP, HTML5, and CSS3.
+- Databases: Oracle and MySQL.
+- Framework: Hibernate, Spring MVC, Spring Boot, and Microservices.
+- IDE Tools: Eclipse, IntelliJ, and VSCode.
+- Distributed Technology: Web service RESTful.
+- API Testing Tool: Postman.
+- Version Control: Git and GitHub
 
 ## Publication 📑
 
