@@ -2,7 +2,7 @@
 
 ## About Me 🤓
 
-A **driven** M.Tech postgraduate with a **keen interest** in machine learning and mobile development. **Equipped** with a strong tech skillset to **build** scalable solutions. **Eager** to leverage my academic background in computer science to **deliver** high-impact products.
+A **driven** M.Tech postgraduate with a **keen interest** in web and mobile development. **Equipped** with a strong tech skillset to **build** scalable solutions. **Eager** to leverage my academic background in computer science to **deliver** innovative products.
 
 ## Education 🎓
 
