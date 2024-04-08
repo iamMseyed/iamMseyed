@@ -3,17 +3,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Seyed+Muzaffar!;" />
 </h1>
 
-<h3 align="center">A passionate junior software developer from India </h3>
+<h3 align="center">A passionate Junior Full Stack Software Developer from India </h3>
 
 <div align="center">
   
 ## Key Skills 💻
 
-🌱 Programming Languages: C, C++, Java 1.8, NLP, HTML5, and CSS3.
+🌱 Programming Languages:  C++, Java, JSP, NLP, HTML5, JavaScript, TypeScript and CSS3.
 
-🌱 Databases: Oracle and MySQL.
+🌱 Databases: Oracle, MySQL, and MySQL.
 
-🌱 Framework: Hibernate, Spring MVC, Spring Boot, and Microservices.
+🌱 Framework: Spring, Spring Data JPA, Spring MVC, Spring Security, Spring Boot, jUnit, and Angular 15.
 
 🌱 IDE Tools: Eclipse, IntelliJ, and VSCode.
 
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,c,cpp,mysql,bootstrap,html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=java,spring,c,cpp,mysql,bootstrap,html,css,javascript,typescript,angular,vscode,github,git," />
     <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,postman" /><br>
 </div>
 
