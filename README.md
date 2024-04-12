@@ -9,11 +9,11 @@
   
 ## Key Skills 💻
 
-🌱 Programming Languages:  C++, Java, JSP, NLP, HTML5, JavaScript, TypeScript and CSS3.
+🌱 Programming Languages:  C++, Java 8+, JSP, NLP, HTML5, JavaScript, TypeScript and CSS3.
 
-🌱 Databases: Oracle, MySQL, and MySQL.
+🌱 Databases: Oracle, and MySQL.
 
-🌱 Framework: Spring, Spring Data JPA, Spring MVC, Spring Security, Spring Boot, jUnit, and Angular 15.
+🌱 Framework: Spring, Spring Data JPA, Spring MVC, Spring Security, Spring Boot, jUnit, and Angular 15+.
 
 🌱 IDE Tools: Eclipse, IntelliJ, and VSCode.
 
