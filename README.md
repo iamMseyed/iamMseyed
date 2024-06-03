@@ -11,7 +11,7 @@
 
 🌱 Programming Languages:  C++, Java 8+, JSP, NLP, HTML5, JavaScript, TypeScript and CSS3.
 
-🌱 Databases: Oracle, and MySQL.
+🌱 Databases: Oracle, PostgreSQL, and MySQL.
 
 🌱 Framework: Spring, Spring Data JPA, Spring MVC, Spring Security, Spring Boot, jUnit, and Angular 15+.
 
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,c,cpp,mysql,bootstrap,html,css,javascript,typescript,angular,vscode,github,git," />
+    <img src="https://skillicons.dev/icons?i=java,spring,c,cpp,mysql,postgresql,bootstrap,html,css,javascript,typescript,angular,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,postman" /><br>
 </div>
 
