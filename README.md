@@ -9,7 +9,7 @@
   
 ## Key Skills 💻
 
-🌱 Programming Languages:  C++, Java 8+, JSP, NLP, HTML5, JavaScript, TypeScript and CSS3.
+🌱 Programming Languages:  C++, Java 8+, JSP, NLP, HTML5, JavaScript, TypeScript, React and CSS3.
 
 🌱 Databases: Oracle, PostgreSQL, and MySQL.
 
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,c,cpp,mysql,postgresql,bootstrap,html,css,javascript,typescript,angular,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=java,spring,c,cpp,mysql,postgresql,react,tailwindcss,bootstrap,html,css,javascript,typescript,angular,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,postman" /><br>
 </div>
 
