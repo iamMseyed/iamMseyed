@@ -7,7 +7,7 @@
 
 <div align="center">
   
-## Key Skills 💻
+## Key Skills 
 
 Programming Languages:  C++, Java 8+, JSP, NLP, HTML5, JavaScript, TypeScript, React and CSS3.
 
