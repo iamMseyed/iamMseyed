@@ -9,19 +9,19 @@
   
 ## Key Skills 💻
 
-🌱 Programming Languages:  C++, Java 8+, JSP, NLP, HTML5, JavaScript, TypeScript, React and CSS3.
+Programming Languages:  C++, Java 8+, JSP, NLP, HTML5, JavaScript, TypeScript, React and CSS3.
 
-🌱 Databases: Oracle, PostgreSQL, and MySQL.
+Databases: Oracle, PostgreSQL, and MySQL.
 
-🌱 Framework: Spring, Spring Data JPA, Spring MVC, Spring Security, Spring Boot, jUnit, and Angular 15+.
+Framework: Spring, Spring Data JPA, Spring MVC, Spring Security, Spring Boot, jUnit, and Angular 15+.
 
-🌱 IDE Tools: Eclipse, IntelliJ, and VSCode.
+IDE Tools: Eclipse, IntelliJ, and VSCode.
 
-🌱 Distributed Technology: Web service RESTful.
+Distributed Technology: Web service RESTful.
 
-🌱 API Testing Tool: Postman.
+API Testing Tool: Postman.
 
-🌱 Version Control: Git and GitHub
+Version Control: Git and GitHub
 
 <div align="center"> 
   <a href="mailto:muzaffarseyed9@gmail.com">
@@ -34,7 +34,7 @@
 </div>
 
  <hr/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,c,cpp,mysql,postgresql,react,tailwindcss,bootstrap,html,css,javascript,typescript,angular,vscode,github,git" />
@@ -44,7 +44,7 @@
 <br/>
 <hr/>
 
-## Publication 📑
+## Publication 
 
 **Published paper** on Hate Speech and Offensive Language Detection in Twitter Data using Machine Learning Classifiers
 
