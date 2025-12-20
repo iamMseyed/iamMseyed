@@ -37,7 +37,7 @@ Version Control: Git and GitHub
 <h2 align="center">Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,c,cpp,mysql,postgresql,react,tailwindcss,bootstrap,html,css,javascript,typescript,angular,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=java,spring,c,cpp,mysql,postgresql,react,tailwindcss,bootstrap,html,css,javascript,typescript,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,postman" /><br>
 </div>
 
