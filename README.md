@@ -3,17 +3,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Seyed+Muzaffar!;" />
 </h1>
 
-<h3 align="center">A passionate Junior Full Stack Software Developer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 <div align="center">
   
 ## Key Skills 
 
-Programming Languages:  C++, Java 8+, JSP, NLP, HTML5, JavaScript, TypeScript, React and CSS3.
+Programming Languages:  C, C++, Java 8+, JavaScript, TypeScript, React, HTML5, CSS3, Tailwindcss, and Bootstrap.
 
 Databases: Oracle, PostgreSQL, and MySQL.
-
-Framework: Spring, Spring Data JPA, Spring MVC, Spring Security, Spring Boot, jUnit, and Angular 15+.
 
 IDE Tools: Eclipse, IntelliJ, and VSCode.
 
