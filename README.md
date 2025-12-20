@@ -6,21 +6,16 @@
 <h3 align="center">A passionate Software Developer</h3>
 
 <div align="center">
-  
-## Key Skills 
 
-Programming Languages:  C, C++, Java 8+, JavaScript, TypeScript, React, HTML5, CSS3, Tailwindcss, and Bootstrap.
-
-Databases: Oracle, PostgreSQL, and MySQL.
-
-IDE Tools: Eclipse, IntelliJ, and VSCode.
-
-Distributed Technology: Web service RESTful.
-
-API Testing Tool: Postman.
-
-Version Control: Git and GitHub
-
+ <hr/>
+<h2 align="center">Languages-Frameworks-Tools </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,spring,c,cpp,mysql,postgresql,react,tailwindcss,bootstrap,html,css,javascript,typescript,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,postman" /><br>
+</div>
+<hr/>
+<h2 align="center">Let's Connect</h2>
 <div align="center"> 
   <a href="mailto:muzaffarseyed9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" rel="noopener noreferrer"/>
@@ -30,15 +25,6 @@ Version Control: Git and GitHub
   </a>
  
 </div>
-
- <hr/>
-<h2 align="center">Languages-Frameworks-Tools </h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,c,cpp,mysql,postgresql,react,tailwindcss,bootstrap,html,css,javascript,typescript,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,postman" /><br>
-</div>
-
 <br/>
 <hr/>
 
